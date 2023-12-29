@@ -1,0 +1,10 @@
+{
+    "graalvm.installations": [
+        "c:\\Users\\ADI\\Documents\\GitHub\\LoadSim\\.git\\graalvm-jdk-17.0.10+11.1"
+    ],
+    "graalvm.home": "c:\\Users\\ADI\\Documents\\GitHub\\LoadSim\\.git\\graalvm-jdk-17.0.10+11.1",
+    "java.home": "c:\\Users\\ADI\\Documents\\GitHub\\LoadSim\\.git\\graalvm-jdk-17.0.10+11.1",
+    "cSpell.enableFiletypes": [
+        "!dockerfile"
+    ]
+}
